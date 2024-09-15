@@ -1,0 +1,31 @@
+.project {
+  padding-left: 2vw;
+  padding-bottom: 2vh;
+  padding-top: 2vh;
+  margin-top: 10vh;
+  margin-bottom: 0vh;
+}
+
+.description {
+  padding-left: 10px;
+}
+
+.generalInfo {
+  background-color: #a6dde0;
+}
+
+#project1 {background-color: #b4eaed;}
+#project2 {background-color: #e8cc8b;}
+#project3 {background-color: #8be89b;}
+#project4 {background-color: #f09c9c;}
+#project5 {background-color: #eff09c;}
+
+h4 {
+  padding-top: 100px;
+}
+
+h2 {
+  margin: 0px !important;
+  padding-bottom: 10px !important;
+  padding: 0px !important;
+}
