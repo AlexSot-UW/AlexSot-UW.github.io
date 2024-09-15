@@ -1,0 +1,9 @@
+---
+output: 
+  html_document:
+    toc: FALSE
+---
+
+```{r echo=FALSE, out.width="1000px", out.height="800px"}
+knitr::include_graphics('Resume.pdf')
+```

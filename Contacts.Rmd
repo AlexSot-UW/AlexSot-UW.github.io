@@ -1,0 +1,32 @@
+---
+output: 
+  html_document:
+    toc: FALSE
+date: "2024-09-13"
+---
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+
+:::::{.contactInfo}
+# Contact me!
+
+\
+\
+
+## Linkedin: https://www.linkedin.com/in/alexander-sotnikov-uw-ce/
+
+## Github: https://github.com/AlexSot-UW
+
+## Email: assotnik@uwaterloo.ca
+
+:::::

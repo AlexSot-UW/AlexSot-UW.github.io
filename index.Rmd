@@ -1,0 +1,54 @@
+---
+output: 
+  html_document:
+    css: "./homepage.css"
+    toc: FALSE
+---
+
+
+\
+\
+\
+
+:::{}
+# **Hey, I'm Alex...**
+
+... a first year computer engineering student at the University of Waterloo!
+
+:::
+
+:::: {#skills}
+## My Skills: 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages/Frameworks: `Java, Python, HTML, CSS, Markdown, C++, Javascript, ReactJS`
+\
+\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hardware: `Raspberry Pi, Arduino`
+\
+\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soft Skills: `Leadership, Initiative, Communication, Teamwork, Planning, Organization`
+\
+\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design/Deployment Environments: `NodeJS, RStudio, Vercel, VSCode, Eclipse IDE, Microsoft Office Suite`\
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp; `Autodesk Fusion 360, Vercel, ShinnyApps`
+\
+\
+
+You can navigate to the resume or projects tab for a deeper outlook of my skills, or click on the link below to view my github profile:\
+https://github.com/AlexSot-UW
+
+::::
+
+
+:::: {#hobbies}
+## Some of my hobbies are...
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...anything **space** related! I have always been inspired by stories of space travel, and science fiction novels about the future.\
+\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...playing **chess**. I've played this game since fifth grade, and even founded the [chess club](https://www.instagram.com/ayjchessclub/) at my school!\
+\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... **Taekwondo**. I'm an avid martial arts practitioner with a second dan black belt in Taekwondo!\
+\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...**photography**. Ever since I've gotten a camera I've been taking pictures, especially of space! Most recently I captured the 2024 solar eclipse from my observation point in Dunnville Ontario.\
+\
+::::

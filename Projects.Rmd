@@ -1,0 +1,96 @@
+---
+output: 
+  html_document:
+    css: "projects.css"
+---
+
+\
+\
+
+# **Projects**
+
+::::: {#project1 .project}
+## Physics Club Website 
+<br/>
+
+:::: {.description}
+#### Description:
+
+Used `ReactJS`, `HTML`, and `CSS`, to create an interactive website for the schools physics club, which included important information about club activities, as well as an embeded sign up form which facilitated 30+ students to join the club. Creatively employed `EmailJS`, a back-end service which allowed me to create a responsive form that passed user
+feedback straight into the clubs email inbox.
+::::
+
+:::: {}
+**Website Link**: physicsclubwebsite.com \
+**Github Link**: https://github.com/AlexSot-UW \
+<ins>**Languages/Frameworks Used**</ins>: `Javascript`, `HTML`, `CSS`, `ReactJS`, `EmailJS` \
+::::
+
+:::::
+
+<!--- Project 2 --->
+
+::::: {#project2 .project}
+## Personal Website (This Website)
+<br/>
+
+:::: {.description}
+#### Description:
+
+Constructed a personal website in `RStudio`, productively utilizing `RMarkdown`, `CSS`, and `HTML`. Deployed using `Github pages`. 
+::::
+
+:::: {}
+**Website Link**: https://AlexSot-UW.github.io \
+**Github Link**: https://github.com/AlexSot-UW/Personal-Website \
+<ins>**Technologies Used**</ins>: `RMarkdown`, `HTML`, `CSS`, `Github` \
+::::
+
+:::::
+
+::::: {#project3 .project}
+## Two Player Picaria Game
+<br/>
+
+:::: {.description}
+#### Description:
+
+Built a two player picaria game in `Python` with a `Graphical UI`. Employed `UDP Protocol` to effectively connect two separate `Raspberry Pi’s` over a internet network. 
+::::
+
+:::: {}
+**Github Link**: https://github.com/AlexSot-UW/Two-Player-Picaria \
+<ins>**Technologies Used**</ins>: `Python`, `UDP Protocol`, `Raspberry Pi` \
+::::
+
+:::::
+
+
+::::: {#project4 .project}
+## First Place Catapult Project
+<br/>
+
+:::: {.description}
+#### Description:
+
+Built a first place catapult project, which had the best distance to mass ratio out of two classes. Created a tinkercad rendering of the design before building, as well as making physical calculations to verify that the project was viable with the materials available.
+::::
+
+:::::
+
+::::: {#project5 .project}
+## Fictional Company Website 
+<br/>
+
+:::: {.description}
+#### Description:
+
+For an in-class assignment, built a website for a fictional space company using HTML, and CSS.
+::::
+
+:::: {}
+**Github Link**: https://github.com/AlexSot-UW/Sotspace-Fictional-Website \
+<ins>**Languages Used**</ins>: `HTML5`, `CSS`\
+::::
+
+:::::
