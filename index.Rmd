@@ -20,17 +20,18 @@ output:
 :::: {#skills}
 ## My Skills: 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages/Frameworks: `Java, Python, HTML, CSS, Markdown, C++, Javascript, ReactJS`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages/Frameworks: `Java, Python, HTML, CSS, Markdown, C++, C, Javascript, ReactJS, NodeJS, MATLAB`\ 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;`Assembly, LATEX, GIT, Object Oriented Programming`
 \
 \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hardware: `Raspberry Pi, Arduino`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hardware: `Raspberry Pi, Arduino, STM32`
 \
 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soft Skills: `Leadership, Initiative, Communication, Teamwork, Planning, Organization`
 \
 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design/Deployment Environments: `NodeJS, RStudio, Vercel, VSCode, Eclipse IDE, Microsoft Office Suite`\
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp; `Autodesk Fusion 360, Vercel, ShinnyApps`
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp; `Autodesk Fusion 360, ShinnyApps`
 \
 \
 
