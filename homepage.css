@@ -1,3 +1,13 @@
+body {
+  background-image: url('rocketLiftoff3.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+#bodyDiv {
+  padding-left: 0px;
+}
+
 #skills {
   background-color: #b4eaed;
   padding-left: 2vw;
